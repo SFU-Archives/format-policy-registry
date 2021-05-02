@@ -16,15 +16,16 @@ Examples include plain text files (txt), pdfs, documents produced by word proces
 ## Formats
 | Format | Status | Strategy | Preservation | Access |
 | :---   | :---   | :---     | :---         | :---   |
+| Preferred formats |
 | Acrobat PDF/A (pdf) | Preferred | Designated preservation format | Original | Portable Document Format (pdf) |
 | Portable Document Format (pdf) | Preferred | Normalize to preservation format | Acrobat PDF/A (pdf) | Original |
-
+| Acceptable formats |
 | Microsoft Word (doc, docx) | Acceptable | Watch format | Original | Portable Document Format (pdf) |
 | OpenDocument Text (odt) | Acceptable | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
 | Plain Text File (txt) | Acceptable | Designated preservation format | Original | Portable Document Format (pdf) |
 | Rich Text Format (rtf) | Acceptable | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
 | WordPerfect (wpd) | Acceptable | Bit-level preservation only | Original | Original |
-
+| Do not transfer |
 | Google Document Link File (gdoc) | Do not transfer | Cannot be preserved | n/a | n/a |
 
 ## Description and guidance
