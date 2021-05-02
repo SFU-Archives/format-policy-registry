@@ -16,10 +16,15 @@ Examples include plain text files (txt), pdfs, documents produced by word proces
 - [Download as pdf](../downloads/01-text-documents.pdf)
 
 ## Preferred formats
-| Format | Strategy | Preservation | Access |
-| :---   | :---     | :---         | :---   |
-| Portable Document Format (pdf) | Normalize to preservation format | Acrobat PDF/A (pdf) | Original |
-| Acrobat PDF/A (pdf) | Designated preservation format | Original | Portable Document Format (pdf) |
+**Portable Document Format (pdf)**x
+- Strategy: Normalize to preservation format
+- Preservation: Acrobat PDF/A (pdf)
+- Access: Original
+
+**Acrobat PDF/A (pdf)**
+- Strategy: designated preservation format
+- Preservation: Original
+- Access: Portable Document Format (pdf)
 
 ## Acceptable formats
 | Format | Strategy | Preservation | Access |
