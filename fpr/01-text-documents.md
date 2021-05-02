@@ -17,8 +17,8 @@ Examples include plain text files (txt), pdfs, documents produced by word proces
 | Format | Strategy | Preservation format | Access format |
 | :---   | :---     | :---                | :---          |
 | `Preferred formats` |
-| --- |
-| Acrobat PDF/A (pdf) | Designated preservation format | Original | Portable Document Format (pdf) |
+| |
+| Acrobat PDF/A (pdf) | Designate as preservation format | Original | Portable Document Format (pdf) |
 | Portable Document Format (pdf) | Normalize to preservation format | Acrobat PDF/A (pdf) | Original |
 | `Acceptable formats` |
 | Microsoft Word (doc, docx) | Watch format | Original | Portable Document Format (pdf) |
