@@ -5,9 +5,7 @@ Documents conveying written information primarily intended for reading.
 
 Examples include plain text files (txt), pdfs, documents produced by word processing applications (e.g. Microsoft Word, docx) and desktop publishing software (e.g. Adbbe InDesign, idn).
 
-- [Preferred formats](#preferred-formats)
-- [Acceptable formats](#acceptable-formats)
-- [Do not transfer](#do-not-transfer)
+- [Formats](#formats)
 - [Description and guidance](#description-and-guidance)
   - [Preservation formats](#preservation-formats)
   - [Access formats](#access-formats)
@@ -15,30 +13,17 @@ Examples include plain text files (txt), pdfs, documents produced by word proces
   - [Current gaps and strategy](#current-gaps-and-strategy)
 - [Download as pdf](../downloads/01-text-documents.pdf)
 
-## Preferred formats
-**Portable Document Format (pdf)**x
-- Strategy: Normalize to preservation format
-- Preservation: Acrobat PDF/A (pdf)
-- Access: Original
-
-**Acrobat PDF/A (pdf)**
-- Strategy: designated preservation format
-- Preservation: Original
-- Access: Portable Document Format (pdf)
-
-## Acceptable formats
-| Format | Strategy | Preservation | Access |
-| :---   | :---     | :---         | :---   |
-| OpenDocument Text (odt) | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
-| Rich Text Format (rtf) | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
+## Formats
+| Format | Status | Strategy | Preservation | Access |
+| :---   | :---   | :---     | :---         | :---   |
+| Portable Document Format (pdf) | **Preferred** | Normalize to preservation format | Acrobat PDF/A (pdf) | Original |
+| Acrobat PDF/A (pdf) | **Preferred** | Designated preservation format | Original | Portable Document Format (pdf) |
+| OpenDocument Text (odt) | Acceptabel | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
+| Rich Text Format (rtf) | Acceptable | Normalize to preservation format | Acrobat PDF/A (pdf) | Portable Document Format (pdf) |
 | Plain Text File (txt) | Designated preservation format | Original | Portable Document Format (pdf) |
 | Microsoft Word (doc, docx) | Watch format | Original | Portable Document Format (pdf) |
 | WordPerfect (wpd) | Bit-level preservation only | Original | Original |
-
-## Do not transfer
-| Format | Strategy | Preservation | Access |
-| :---   | :---     | :---         | :---   |
-| Google Document Link File (gdoc) | Cannot be preserved | n/a | n/a |
+| Google Document Link File (gdoc) | **Do not transfer** | Cannot be preserved | n/a | n/a |
 
 ## Description and guidance
 ### Preservation format
