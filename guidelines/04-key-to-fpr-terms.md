@@ -71,10 +71,10 @@ When a format is itself a designated [preservation format](#preservation-format)
 Some formats may simply not be preservable. Currently this applies only [Google Document Link Files](https://www.nationalarchives.gov.uk/PRONOM/fmt/1073) that are pointers to documents rather than documents themselves; see note above for the transfer status [Do not transfer](#do-not-transfer).
 
 ## Comparison of levels of support
-| Action performed | Bit-level | Watch | Normalize | Full |
-| :---             | :---      | :---  | :---      | :--- |
+| Action performed | Bit-level | Watch  | Normalize | Full  |
+| :---             |   :--- :  | :---:  |   :---:   | :---: |
 | Generate metadata to support preservation, access, authenticity, and provenance | [x] | [x] | [x] | [x] |
-| Regularly refresh/replace storage media | [x] | [x] | [x] | [x] |
+| Regularly refresh/replace storage media | -[x] | -[x] | -[x] | -[x] |
 | Make available on SFU Atom as restrictions allow | [x] | [x] | [x] | [x] |
 | Secure encryption of digital records (AIPs) and their associated metadata | [x] | [x] | [x] | [x] |
 | Regularly perform fixity checks on AIPs | [x] | [x] | [x] | [x] |
