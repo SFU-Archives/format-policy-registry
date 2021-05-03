@@ -72,9 +72,9 @@ Some formats may simply not be preservable. Currently this applies only [Google 
 
 ## Comparison of levels of support
 | Action performed | Bit-level | Watch  | Normalize | Full  |
-| :---             |   :--- :  | :---:  |   :---:   | :---: |
+| :---             |   :---:   | :---:  |   :---:   | :---: |
 | Generate metadata to support preservation, access, authenticity, and provenance | [x] | [x] | [x] | [x] |
-| Regularly refresh/replace storage media | -[x] | -[x] | -[x] | -[x] |
+| Regularly refresh/replace storage media | - [x] | - [x] | - [x] | - [x] |
 | Make available on SFU Atom as restrictions allow | [x] | [x] | [x] | [x] |
 | Secure encryption of digital records (AIPs) and their associated metadata | [x] | [x] | [x] | [x] |
 | Regularly perform fixity checks on AIPs | [x] | [x] | [x] | [x] |
