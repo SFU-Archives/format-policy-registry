@@ -65,14 +65,14 @@ When a format is itself a designated [preservation format](#preservation-format)
 ### Comparison of levels of support
 | Action performed | Bit-level | Watch  | Normalize | Full  |
 | :---             |   :---:   | :---:  |   :---:   | :---: |
-| Generate metadata to support preservation, access, authenticity, and provenance | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark | :heavy_check_mark: |
-| Regularly refresh/replace storage media | yes | yes | yes | yes |
-| Make available on SFU Atom as restrictions allow | yes | yes | yes | yes |
-| Secure encryption of digital records (AIPs) and their associated metadata | yes | yes | yes | yes |
-| Regularly perform fixity checks on AIPs | yes | yes | yes | yes |
-| Watch the format for evolving ability to preserve	| | yes | yes | yes |
-| Perform normalization as necessary |  |  | yes |  |
-| Offer long-term storage in a preservation format |  |  |  | yes |
-| Plan to migrate format upon obsolescence |  |  |  | yes |
+| Generate metadata to support preservation, access, authenticity, and provenance | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Regularly refresh/replace storage media | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Make available on SFU Atom as restrictions allow | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Secure encryption of digital records (AIPs) and their associated metadata | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Regularly perform fixity checks on AIPs | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Watch the format for evolving ability to preserve	| | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Perform normalization as necessary |  |  | :heavy_check_mark: |  |
+| Offer long-term storage in a preservation format |  |  |  | :heavy_check_mark: |
+| Plan to migrate format upon obsolescence |  |  |  | :heavy_check_mark: |
 
 ###### Last updated: May 3, 2021
