@@ -1,5 +1,5 @@
-###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](00-guidelines.md)
-###### Guidelines `>` [File Formats](01-file-formats.md) `|` **Format Obsolescence** `|` [Preservation Strategies](03-preservation-strategies.md) `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
+###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` Guidelines
+###### [Overview](00-guidelines.md) `|` [File Formats](01-file-formats.md) `|` Format Obsolescence `|` [Preservation Strategies](03-preservation-strategies.md) `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
 
 # Format Obsolescence
 Digital records are much more complex than paper records. In order to render a document on a computer screen, we need a particular program (software) that runs on a specific operating system (OS) that is installed on a physical computer of a certain type (hardware). This **hardware/OS/software configuration** is in constant change, the components evolving at different rates. As hardware/OS/software environments change over time, documents created in one environment may no longer be renderable in a later one.

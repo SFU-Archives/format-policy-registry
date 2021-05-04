@@ -1,5 +1,5 @@
-###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](00-guidelines.md)
-###### Guidelines `>` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` **Preservation Strategies** `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
+###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` Guidelines
+###### [Overview](00-guidelines.md) `|` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` Preservation Strategies `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
 
 # Preservation Strategies
 Archivists are charged with permanently preserving and providing access to records of historic value. How can we ensure the continuing accessibility of digital records that were created using software that is now obsolete?

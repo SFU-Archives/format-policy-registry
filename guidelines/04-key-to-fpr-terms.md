@@ -1,5 +1,5 @@
-###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](00-guidelines.md)
-###### Guidelines `>` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` **Key to FPR Terms**
+###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` Guidelines
+###### [Overview](00-guidelines.md) `|` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` Key to FPR Terms
 
 # Key to FPR Terms
 This pages provide a fuller explanation terms used in the [list of preferred and acceptable file formats](../fpr/00-fpr.md) section of the FPR.
@@ -20,6 +20,7 @@ This pages provide a fuller explanation terms used in the [list of preferred and
 **Preservation formats** are formats into which other similar file types are normalized; they must preserve the significant properties of the original files.  **Access formats** are intended for easy delivery to users; lesser file quality and greater loss of features may be acceptable for access purposes, given that a preservation copy is also typically available to users who need a higher-quality copy.
 
 | Characteristics | Notes |
+| :---            | :---  |
 | ***Preservation formats*** |
 | Significant properties | Format maintains the critical features and qualities of the original files with no or minimal loss |
 | Uncompressed or lossless compression | This protects against the dangers of [bit rot](https://en.wikipedia.org/wiki/Data_degradation), where the loss of even a few bits to a lossy compressed file can make it unrecoverable |
@@ -71,7 +72,7 @@ When a format is itself a designated [preservation format](#preservation-format)
 | Secure encryption of digital records (AIPs) and their associated metadata | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Regularly perform fixity checks on AIPs | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Watch the format for evolving ability to preserve	| | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Perform normalization as necessary |  |  | :heavy_check_mark: |  |
+| Perform normalization as necessary |  |  | :heavy_check_mark: | :heavy_check_mark: |
 | Offer long-term storage in a preservation format |  |  |  | :heavy_check_mark: |
 | Plan to migrate format upon obsolescence |  |  |  | :heavy_check_mark: |
 
