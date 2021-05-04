@@ -1,5 +1,5 @@
-###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](../00-guidelines.md)
-###### [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
+###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](00-guidelines.md)
+###### Guidelines `>` **File Formats** `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
 
 # File Formats
 **File format** refers to the way information is encoded in a digital file. Different formats require different software to open and read / render the file so that users can view or interact with its contents.

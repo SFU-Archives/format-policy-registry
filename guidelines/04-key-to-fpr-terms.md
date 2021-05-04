@@ -1,11 +1,9 @@
-###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](../00-guidelines.md)
-###### [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` [Key to FPR Terms](04-key-to-fpr-terms.md)
+###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` [Guidelines](00-guidelines.md)
+###### Guidelines `>` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` **Key to FPR Terms**
 
 # Key to FPR Terms
 This pages provide a fuller explanation terms used in the [list of preferred and acceptable file formats](../fpr/00-fpr.md) section of the FPR.
 - [Designated formats](#designated-formats)
-  - [Preservation formats](#preservation-formats)
-  - [Access formats](#access-formats)
 - [Transfer status](#transfer-status)
   - [Preferred formats](#preferred-formats)
   - [Acceptable formats](#acceptable-formats)
@@ -16,24 +14,21 @@ This pages provide a fuller explanation terms used in the [list of preferred and
   - [Watch](#watch)
   - [Normalize](#normalize)
   - [Full](#full)
-  - [Cannot be preserved](#cannot-be-preserved)
-- [Comparison of levels of support](#comparison-of-levels-of-support)
+  - [Comparison of levels of support](#comparison-of-levels-of-support)
 
-## Designated formats
-Formats may be designated as [preservation](#preservation-formats) or [access](#access-formats) formats.
+## Designated preservation and access formats
+**Preservation formats** are formats into which other similar file types are normalized; they must preserve the significant properties of the original files.  **Access formats** are intended for easy delivery to users; lesser file quality and greater loss of features may be acceptable for access purposes, given that a preservation copy is also typically available to users who need a higher-quality copy.
 
-### Preservation formats
-**Preservation formats** are file formats that other similar file types are normalized to for long-term preservation and have a number of characteristics:
-- Significant properties – it maintains the critical features and qualities of the original files with no or minimal loss.
-- Uncompressed or lossless compression - this protects against the dangers of [bit rot](https://en.wikipedia.org/wiki/Data_degradation), where the loss of even a few bits to a lossy compressed file can make it unrecoverable.
-- Stability – the format does not frequently change or changes are backwards-compatible.
-- Support – it is widely adopted by users, with readily available software tools.
-- Openess – a technical specification is freely available, not a propriety, commercial secret.
-
-### Access formats
-**Access formats** are intended for easy delivery to users. Lesser file quality and greater loss of significant properties may be acceptable for access purposes, given that a preservation copy is also typically available to users who need a higher-quality copy. Essential characteristics for access formats are:
-- Compact – file sizes support easy transmission over the internet.
-- Support – widely adopted by consumers, with readily available software tools to render / view files.
+| Characteristics | Notes |
+| ***Preservation formats*** |
+| Significant properties | Format maintains the critical features and qualities of the original files with no or minimal loss |
+| Uncompressed or lossless compression | This protects against the dangers of [bit rot](https://en.wikipedia.org/wiki/Data_degradation), where the loss of even a few bits to a lossy compressed file can make it unrecoverable |
+| Stability | Format does not frequently change or changes are backwards-compatible |
+| Support | Format is widely adopted by users, with readily available software tools |
+| Openess | A technical specification is freely available, not a propriety, commercial secret |
+| ***Access formats*** |
+| Compact | File sizes support easy transmission over the internet |
+| Support | Widely adopted by consumers, with readily available software tools to render / view files |
 
 ## Transfer status
 **Transfer status** indicates how SFU Archives views a particular file format. There are three options.
@@ -45,7 +40,7 @@ These are the formats SFU Archives would like to receive from producers (univers
 These are formats SFU Archives will accept from producers who are not able to provide the records in their preferred formats. We recognize that it is not always feasible for producers to make file conversions themselves. **Acceptable formats** are ones for which the Archives has a preservation plan or they may be widely used [watched formats](#watch) which the Archives will monitor as it develops a plan.
 
 ### Do not transfer
-These are formats SFU Archives **will not accept** from producers because we have no means of preserving them and are unlikely to develop such a means in the future. The number of formats explicitly designated for rejection is small: currently it is limited to the series of [Google Document Link Files](https://www.nationalarchives.gov.uk/PRONOM/fmt/1073) (gdoc, gdraw, gform, gmap, gsheet, gsite, gslides). These files merely provide pointers to the actual documents that reside somewhere on Google Drive. The links will not work if the documents are removed. And the Archives (and its users) do not typically have access to the producer's Google Drive in the first place. Producers wishing to preserve these files should first export them from Google Drive, then transfer those files to the Archives.
+These are formats SFU Archives **will not accept** from producers because we have no means of preserving them and are unlikely to develop such a means in the future. The main type here are pointer files: files that merely provide a link to the actual files that are intended for long-term preservation. [Google Document Link Files](https://www.nationalarchives.gov.uk/PRONOM/fmt/1073) (`gdoc`, `gdraw`, `gform`, `gmap`, `gsheet`, `gsite`, `gslides`) are examples and the only formats currently explicitly designated for rejection. These files link to documents that reside somewhere on Google Drive and the links will not work if the documents are removed. The Archives and its users, moreover, typically do not have access to the producers' Google Drive; producers wishing to transfer these should first export them from Google Drive, then transfer those files to the Archives. When shown in the FPR, pointer files will usually have their [Level of support](#level-of-support) = "Cannot be preserved".  
 
 ### Other formats
 **Formats not appearing the FPR can still be transferred to Archives.** But typically if they do not appear on the FPR, it is because the Archives does not currently have a preservation plan for that format to ensure they will continue to be accessible in the future. Usually this means we can provide only bit-level preservation support, i.e. we will protect the integrity of the bitstream that makes up the file (it will not be corrupted or damaged), but we cannot presently guarantee that software in the future will be able to read / render the file's contents.
@@ -67,10 +62,7 @@ These formats will be routinely migrated to (i.e. copies made in) a different fo
 ### Full
 When a format is itself a designated [preservation format](#preservation-format), we say that its preservation is **fully supported**. Preservation formats will themselves change over time (but hopefully infrequently) and require migration by future archivists. But this will be a controlled process and the new formats chosen will themselves have to preserve the significant properties of the originals.
 
-### Cannot be preserved
-Some formats may simply not be preservable. Currently this applies only [Google Document Link Files](https://www.nationalarchives.gov.uk/PRONOM/fmt/1073) that are pointers to documents rather than documents themselves; see note above for the transfer status [Do not transfer](#do-not-transfer).
-
-## Comparison of levels of support
+### Comparison of levels of support
 | Action performed | Bit-level | Watch  | Normalize | Full  |
 | :---             |   :---:   | :---:  |   :---:   | :---: |
 | Generate metadata to support preservation, access, authenticity, and provenance | [x] | [x] | [x] | [x] |
