@@ -66,13 +66,13 @@ When a format is itself a designated [preservation format](#preservation-format)
 | Action performed | Bit-level | Watch  | Normalize | Full  |
 | :---             |   :---:   | :---:  |   :---:   | :---: |
 | Generate metadata to support preservation, access, authenticity, and provenance | [x] | [x] | [x] | [x] |
-| Regularly refresh/replace storage media | - [x] | - [x] | - [x] | - [x] |
-| Make available on SFU Atom as restrictions allow | [x] | [x] | [x] | [x] |
-| Secure encryption of digital records (AIPs) and their associated metadata | [x] | [x] | [x] | [x] |
-| Regularly perform fixity checks on AIPs | [x] | [x] | [x] | [x] |
-| Watch the format for evolving ability to preserve	| | | [x] | [x] | [x] |
-| Perform normalization as necessary | | | [x] | |
-| Offer long-term storage in a preservation format | | | | [x] |
-| Plan to migrate format upon obsolescence | | | | [x] |
+| Regularly refresh/replace storage media | yes | yes | yes | yes |
+| Make available on SFU Atom as restrictions allow | yes | yes | yes | yes |
+| Secure encryption of digital records (AIPs) and their associated metadata | yes | yes | yes | yes |
+| Regularly perform fixity checks on AIPs | yes | yes | yes | yes |
+| Watch the format for evolving ability to preserve	| | yes | yes | yes |
+| Perform normalization as necessary |  |  | yes |  |
+| Offer long-term storage in a preservation format |  |  |  | yes |
+| Plan to migrate format upon obsolescence |  |  |  | yes |
 
 ###### Last updated: May 3, 2021
