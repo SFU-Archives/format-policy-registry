@@ -65,7 +65,7 @@ When a format is itself a designated [preservation format](#preservation-format)
 ### Comparison of levels of support
 | Action performed | Bit-level | Watch  | Normalize | Full  |
 | :---             |   :---:   | :---:  |   :---:   | :---: |
-| Generate metadata to support preservation, access, authenticity, and provenance | [x] | [x] | [x] | [x] |
+| Generate metadata to support preservation, access, authenticity, and provenance | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark | :heavy_check_mark: |
 | Regularly refresh/replace storage media | yes | yes | yes | yes |
 | Make available on SFU Atom as restrictions allow | yes | yes | yes | yes |
 | Secure encryption of digital records (AIPs) and their associated metadata | yes | yes | yes | yes |
