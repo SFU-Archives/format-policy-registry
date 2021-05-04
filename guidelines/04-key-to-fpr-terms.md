@@ -4,6 +4,8 @@
 # Key to FPR Terms
 This pages provide a fuller explanation terms used in the [list of preferred and acceptable file formats](../fpr/00-fpr.md) section of the FPR.
 - [Designated formats](#designated-formats)
+  - [Preservation formats](#preservation-formats)
+  - [Access formats](#access-formats)
 - [Transfer status](#transfer-status)
   - [Preferred formats](#preferred-formats)
   - [Acceptable formats](#acceptable-formats)
@@ -16,20 +18,20 @@ This pages provide a fuller explanation terms used in the [list of preferred and
   - [Full](#full)
   - [Comparison of levels of support](#comparison-of-levels-of-support)
 
-## Designated preservation and access formats
-**Preservation formats** are formats into which other similar file types are normalized; they must preserve the significant properties of the original files.  **Access formats** are intended for easy delivery to users; lesser file quality and greater loss of features may be acceptable for access purposes, given that a preservation copy is also typically available to users who need a higher-quality copy.
+## Designated formats
+Designated formats are those into which other files of a similar type are normalized for preservation and access purposes. When evaluating formats, the Archives looks for certain characteristics which are different for the two types.
 
-| Characteristics | Notes |
-| :---            | :---  |
-| ***Preservation formats*** |
-| Significant properties | Format maintains the critical features and qualities of the original files with no or minimal loss |
-| Uncompressed or lossless compression | This protects against the dangers of [bit rot](https://en.wikipedia.org/wiki/Data_degradation), where the loss of even a few bits to a lossy compressed file can make it unrecoverable |
-| Stability | Format does not frequently change or changes are backwards-compatible |
-| Support | Format is widely adopted by users, with readily available software tools |
-| Openess | A technical specification is freely available, not a propriety, commercial secret |
-| ***Access formats*** |
-| Compact | File sizes support easy transmission over the internet |
-| Support | Widely adopted by consumers, with readily available software tools to render / view files |
+### Preservation formats
+**Preservation formats** should be able to capture the significant properties of the original files with no or minimal loss. Other important aspects are:
+- Uncompressed or lossless compression: this protects against the dangers of [bit rot](https://en.wikipedia.org/wiki/Data_degradation); with lossy compression, the loss of even a few bits can make the file unrecoverable.
+- Stability: the format does not frequently change or changes are backwards-compatible.
+- Support: the format is widely adopted by users, with readily available software tools and viewers.
+- Openness: a technical specification is freely available, not a propriety, commercial secret.
+
+### Access formats
+**Access formats** are intended for easy delivery to users; lesser file quality and greater loss of features may be acceptable for access purposes, given that a preservation copy is also typically available to users who need a higher-quality copy. Important features are:
+- Compact: file sizes support easy transmission over the internet.
+- Support: the format is widely adopted by consumers, with readily available software tools to render / view files.
 
 ## Transfer status
 **Transfer status** indicates how SFU Archives views a particular file format. There are three options.
