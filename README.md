@@ -11,9 +11,9 @@ The FPR lists preferred and acceptable file formats for transfer to SFU Archives
 
 The FPR is organized into categories based on file type, purpose, or use. The list of formats is not exhaustive. The FPR identifies only the most common formats that the records creators we serve tend to produce. If you have formats that do not appear in the FPR, you can still send them for transfer, but you should consult with an archivist first. Typically, the Archives can only provide **bit-level preservation** for formats not explicitly listed here. This means that we will preserve the integrity of the file (i.e. the string of 0s and 1s that make up the bitstream), but we cannot presently guarantee its future accessibility (i.e. the ability of software in the future to successfully render file contents).
 
-For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-to-frp-terms.md) in the [Guidelines section](guidelines/00-guidelines.md). More generally, the [Guidelines](guidelines/00-guidelines.md) provide additional information about the challenges posed by format obsolescence and the Archives' strategies for ensuring long-term accessibility.
+For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-to-fpr-terms.md) in the [Guidelines section](guidelines/00-guidelines.md). More generally, the [Guidelines](guidelines/00-guidelines.md) provide additional information about the challenges posed by format obsolescence and the Archives' strategies for ensuring long-term accessibility.
 
-## Preferred and acceptable formats
+## [Preferred and acceptable formats](fpr/00-fpr.md)
 1. [Text documents](fpr/01-text-documents.md)
 2. [Presentations](fpr/02-presentations.md)
 3. [Spreadsheets and datasets](fpr/03-spreadsheets-and-datasets.md)
@@ -26,7 +26,13 @@ For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-
 10. [Computer Assisted Design (CAD)](fpr/10-cad.md)
 11. [Models](fpr/11-models.md)
 
-###### Last updated: May xx, 2021
+## [Guidelines](guidelines/00-guidelines.md)
+- [File Formats](guidelines/01-file-formats.md)
+- [Format Obsolescence](guidelines/02-format-obsolesence.md)
+- [Preservation Strategies](guidelines/03-preservation-strategies.md)
+- [Key to FPR Terms](guidelines/04-key-to-fpr-terms.md)
+
+###### Last updated: May 3, 2021
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
