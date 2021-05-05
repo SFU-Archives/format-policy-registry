@@ -4,18 +4,18 @@ SFU Archives' Format Policy Registry (FPR) is a tool for managing digital file f
 The FPR lists preferred and acceptable file formats for transfer to SFU Archives. **The Archives will always retain files in their original formats.** It may also, however, create copies in designated **preservation** and **access** formats ("normalization").
 
  For each format, the FPR:
-- Indicates its status (preferred, acceptable, do not transfer).
-- Gives the designated preservation and access formats (if these exist).
-- Shows the level of preservation that SFU Archives is currently able to provide (full, normalization, watch, bit-level);
+- Indicates its status ([preferred](guidelines/04-key-to-fpr-terms.md#preferred-formats), [acceptable](guidelines/04-key-to-fpr-terms.md#acceptable-formats), [do not transfer](guidelines/04-key-to-fpr-terms.md#do-not-transfer)).
+- Gives the designated [preservation](guidelines/04-key-to-fpr-terms.md#preservation-formats) and [access](guidelines/04-key-to-fpr-terms.md#access-formats) formats (if these exist).
+- Shows the [level of preservation](guidelines/04-key-to-fpr-terms.md#levels-of-support) that SFU Archives is currently able to provide (full, normalization, watch, bit-level);
 - Provides notes explaining the Archives' policy choices, gaps in our current practice, and the Archives' long-term strategies to address these.
 
-The FPR is organized into categories based on file type, purpose, or use. The list of formats is not exhaustive. The FPR identifies only the most common formats that the records creators we serve tend to produce. If you have formats that do not appear in the FPR, you can still send them for transfer, but you should consult with an archivist first. Typically, the Archives can only provide **bit-level preservation** for formats not explicitly listed here. This means that we will preserve the integrity of the file (i.e. the string of 0s and 1s that make up the bitstream), but we cannot presently guarantee its future accessibility (i.e. the ability of software in the future to successfully render file contents).
+The FPR is organized into categories based on file type, purpose, or use. The list of formats is not exhaustive. The FPR identifies only the most common formats that the records creators we serve tend to produce. If you have formats that do not appear in the FPR, you can still send them for transfer but you should also consult with an archivist. Typically, the Archives can only provide [bit-level preservation](guidelines/04-key-to-fpr-terms.md#bit-level) for formats not explicitly listed here. This means that we will preserve the integrity of the file (i.e. the string of 0s and 1s that make up the bitstream), but we cannot presently guarantee its future accessibility (i.e. the ability of software in the future to successfully render file contents).
 
 For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-to-fpr-terms.md) in the [Guidelines section](guidelines/00-guidelines.md). More generally, the [Guidelines](guidelines/00-guidelines.md) provide additional information about the challenges posed by format obsolescence and the Archives' strategies for ensuring long-term accessibility.
 
 ## Preferred and acceptable formats
 Sections will be updated as new formats are added. Please note that most sections do not yet have full notes.
-0. [Overview](fpr/00-fpr.md)
+- [Overview](fpr/00-fpr.md)
 1. [Text documents](fpr/01-text-documents.md)
 2. [Presentations](fpr/02-presentations.md)
 3. [Spreadsheets and datasets](fpr/03-spreadsheets-and-datasets.md)
