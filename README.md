@@ -13,7 +13,9 @@ The FPR is organized into categories based on file type, purpose, or use. The li
 
 For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-to-fpr-terms.md) in the [Guidelines section](guidelines/00-guidelines.md). More generally, the [Guidelines](guidelines/00-guidelines.md) provide additional information about the challenges posed by format obsolescence and the Archives' strategies for ensuring long-term accessibility.
 
-## [Preferred and acceptable formats](fpr/00-fpr.md)
+## Preferred and acceptable formats
+Sections will be updated as new formats are added. Please note that most sections do not yet have full notes.
+0. [Overview](fpr/00-fpr.md)
 1. [Text documents](fpr/01-text-documents.md)
 2. [Presentations](fpr/02-presentations.md)
 3. [Spreadsheets and datasets](fpr/03-spreadsheets-and-datasets.md)
@@ -26,13 +28,18 @@ For a fuller explanation of terms, see the [Key to FPR Terms](guidelines/04-key-
 10. [Computer Assisted Design (CAD)](fpr/10-cad.md)
 11. [Models](fpr/11-models.md)
 
-## [Guidelines](guidelines/00-guidelines.md)
+## Guidelines
+- [Overview](guidelines/00-guidelines.md)
 - [File Formats](guidelines/01-file-formats.md)
 - [Format Obsolescence](guidelines/02-format-obsolesence.md)
 - [Preservation Strategies](guidelines/03-preservation-strategies.md)
 - [Key to FPR Terms](guidelines/04-key-to-fpr-terms.md)
 
-###### Last updated: May 3, 2021
+## Download
+- Download FPR as single pdf [coming soon].
+- Individual sections of the FPR (lists of preferred and acceptable formats) can be downloaded as separate pdfs from each section page.
+
+###### Last updated: May 5, 2021
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
