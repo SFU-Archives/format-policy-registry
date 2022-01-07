@@ -10,13 +10,13 @@ Messages distributed by electronic means from one computer user to one or more r
 | Format | Preservation | Access | Level of support |
 | :---   | :---         | :---   | :---               |
 | ***Preferred formats*** |
-| MBOX (mbox) | Original | ePADD (epadd) | Full | 
+| MBOX (mbox) | Original | ePADD (epadd) | Full |
 | |
 | ***Acceptable formats*** |
-| Gmail (gmail) | MBOX (mbox) | ePADD (epadd) | Normalize | 
-| Internet Message Format (eml) | Original | Original | Watch | 
-| Maildir (maildir) | MBOX (mbox) | ePADD (epadd) | Normalize | 
-| Microsoft Outlook (msg, pst) | Original | Original | Watch | 
+| Gmail (gmail) | MBOX (mbox) | ePADD (epadd) | Normalize |
+| Internet Message Format (eml) | Original | Original | Watch |
+| Maildir (maildir) | MBOX (mbox) | ePADD (epadd) | Normalize |
+| Microsoft Outlook (msg, pst) | Original | Original | Watch |
 | |
 
 ###### Last updated: May 5, 2021
