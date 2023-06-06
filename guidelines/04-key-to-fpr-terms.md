@@ -1,5 +1,5 @@
 ###### [FPR Home](../README.md) `|` [Preferred and acceptable formats](../fpr/00-fpr.md) `|` Guidelines
-###### [Overview](00-guidelines.md) `|` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolesence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` Key to FPR Terms
+###### [Overview](00-guidelines.md) `|` [File Formats](01-file-formats.md) `|` [Format Obsolescence](02-format-obsolescence.md) `|` [Preservation Strategies](03-preservation-strategies.md) `|` Key to FPR Terms
 
 # Key to FPR Terms
 This pages provide a fuller explanation terms used in the [list of preferred and acceptable file formats](../fpr/00-fpr.md) section of the FPR.
